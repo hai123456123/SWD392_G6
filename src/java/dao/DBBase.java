@@ -11,9 +11,9 @@ public class DBBase {
     public DBBase() {
         try {
             // Edit URL , username, password to authenticate with your MS SQL Server
-            String url = "jdbc:sqlserver://localhost:1433;databaseName=OSSDemo";
+            String url = "jdbc:sqlserver://localhost:1433;databaseName=SWP391";
             String username = "sa";
-            String password = "hai31082003";
+            String password = "123";
             Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
             connection = DriverManager.getConnection(url, username, password);
         } catch (ClassNotFoundException | SQLException ex) {

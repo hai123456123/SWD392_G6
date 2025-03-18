@@ -2,7 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
         <group name="Pro192">
             <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/home.jsp</file>
             <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/HomeServlet.java</file>
@@ -40,6 +39,12 @@
             <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/checkout.jsp</file>
             <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/LoginServlet.java</file>
             <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/capcha.jsp</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/DELL/Documents/SWD_done/SWD392_G6/src/java/dao/DBBase.java</file>
+            <file>file:/C:/Users/DELL/Documents/SWD_done/SWD392_G6/src/java/service/GoogleService.java</file>
+            <file>file:/C:/Users/DELL/Documents/SWD_done/SWD392_G6/src/java/proxy/GoogleProxy.java</file>
+            <file>file:/C:/Users/DELL/Documents/SWD_done/SWD392_G6/src/java/dao/AccountDao.java</file>
         </group>
     </open-files>
 </project-private>
