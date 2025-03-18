@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+        <group name="Pro192">
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/home.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/HomeServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/CartDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/service/CheckoutService.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/AllProductServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/productDetail.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/PaymentDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/vnpay_pay.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/ConfirmOrder.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/service/AccountService.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/service/ConfirmOrderService.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/ResetPasswordServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/CheckoutController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/forgetPassword.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/UpdateQuantityServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/LocationController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/ConfirmOrderController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/ProductDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/Logout.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/cart.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/BrandDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/AccountDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/CartController.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/dao/CategoryDao.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/ProductDetailServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/VerifyServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/ForgetPasswordServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/service/CartService.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/allproduct.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/Capcha.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/VerifyRegister.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/checkout.jsp</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/ADMIN/Downloads/SWD392_G6/CodeVNpay%20(1)/CodeVNpay/web/WEB-INF/Views/capcha.jsp</file>
+        </group>
+    </open-files>
+</project-private>
